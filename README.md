@@ -107,6 +107,9 @@ Useful for regional sales strategy & expansion decisions
 
 🎯 Dashboard 3: Target vs Actual & Price Impact
 
+### Product Analysis
+![Product Analysis](Screenshots/Product_Analysis.jpg)
+
 (Page 3)
 
 Metrics
@@ -135,6 +138,9 @@ Demonstrates scenario analysis using DAX
 
 👥 Dashboard 4: Customer Analytics
 
+### Customer Analytics
+![Customer Analytics](Screenshots/Customer_Analytics.jpg)
+
 (Page 4)
 
 Metrics
@@ -157,6 +163,9 @@ Useful for loyalty & retention strategies
 
 🧺 Dashboard 5 & 6: Product & Category Analysis
 
+### Decomposition Tree
+![Decomposition Tree](Screenshots/Decompostion.jpg)
+
 (Pages 5–6)
 
 Metrics
@@ -175,6 +184,9 @@ Enables inventory & merchandising optimization
 
 🧠 Dashboard 7: Key Influencers
 
+### Key Influencers
+![Key Influencers](Screenshots/Key_influencers.jpg)
+
 (Page 7)
 
 Analysis
@@ -190,6 +202,11 @@ Married customers with higher income are more likely homeowners
 Product cost is the strongest driver of retail price
 
 Shows AI-powered insights using Power BI Key Influencers
+
+
+### Q&A Visual
+![Q&A](Screenshots/Q&A.jpg)
+
 
 🧠 DAX Measures Used (Key Examples)
 Core Metrics
