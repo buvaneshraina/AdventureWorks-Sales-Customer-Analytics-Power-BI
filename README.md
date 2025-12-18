@@ -52,7 +52,9 @@ Data cleansing (null handling, formatting)
 
 📊 Dashboards & Metrics
 🟢 Dashboard 1: Executive Sales Overview
-![Exec_dashboard](Screenshots/Executive Sales Overview.jpg)
+
+![Executive Sales Dashboard](Screenshots/Executive_Sales_Overview.jpg)
+
 
 (Page 1)
 
