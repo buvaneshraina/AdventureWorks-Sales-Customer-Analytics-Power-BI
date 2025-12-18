@@ -87,6 +87,7 @@ Accessories generate the highest order volume
 Certain products show higher return percentages, indicating quality or expectation gaps
 
 🌍 Dashboard 2: Geographic Performance
+![Geographic Performance_Dashboard](Screenshots/Geographic_Performance.jpg)
 
 (Page 2)
 
